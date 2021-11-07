@@ -1,0 +1,12 @@
+D:\Facultate-an 3\Medii de programare si dezvoltare\Lab 5\AutoLotModel\bin\Debug\AutoLotModel.dll.config
+D:\Facultate-an 3\Medii de programare si dezvoltare\Lab 5\AutoLotModel\bin\Debug\AutoLotModel.dll
+D:\Facultate-an 3\Medii de programare si dezvoltare\Lab 5\AutoLotModel\bin\Debug\AutoLotModel.pdb
+D:\Facultate-an 3\Medii de programare si dezvoltare\Lab 5\AutoLotModel\bin\Debug\EntityFramework.dll
+D:\Facultate-an 3\Medii de programare si dezvoltare\Lab 5\AutoLotModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Facultate-an 3\Medii de programare si dezvoltare\Lab 5\AutoLotModel\bin\Debug\EntityFramework.xml
+D:\Facultate-an 3\Medii de programare si dezvoltare\Lab 5\AutoLotModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Facultate-an 3\Medii de programare si dezvoltare\Lab 5\AutoLotModel\obj\Debug\AutoLotModel.csproj.AssemblyReference.cache
+D:\Facultate-an 3\Medii de programare si dezvoltare\Lab 5\AutoLotModel\obj\Debug\AutoLotModel.csproj.CoreCompileInputs.cache
+D:\Facultate-an 3\Medii de programare si dezvoltare\Lab 5\AutoLotModel\obj\Debug\AutoLotModel.csproj.CopyComplete
+D:\Facultate-an 3\Medii de programare si dezvoltare\Lab 5\AutoLotModel\obj\Debug\AutoLotModel.dll
+D:\Facultate-an 3\Medii de programare si dezvoltare\Lab 5\AutoLotModel\obj\Debug\AutoLotModel.pdb
